@@ -19,6 +19,8 @@ The data used for this project contains information on over 6,000 Databel custom
 - **Customer Demographics**: Age, gender, senior status, and group size.
 - **Financial Data**: Monthly charges, total charges, and payment methods.
 
+The dataset is from [Kaggle](https://www.kaggle.com/datasets/yichienchong/databel-telecom-customer-churn-dataset/data).
+
 #### Methodology
 The project followed the **CRISP-DM** framework:
 1. **Business Understanding**: Identify key factors contributing to churn and develop models to predict high-risk customers.
