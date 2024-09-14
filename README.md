@@ -39,9 +39,9 @@ The most significant factors driving churn included **Churn Category (Not Applic
 
 #### Outline of Project
 
-- [Link to notebook 1](https://github.com/ahachani/churn_rate_Databel_ISP/blob/main/prompt_20_1_final.ipynb) - Data Cleaning and Preprocessing
-- [Link to notebook 2](https://github.com/ahachani/churn_rate_Databel_ISP/blob/main/prompt_20_1_final.ipynb) - Exploratory Data Analysis (EDA) and Feature Engineering
-- [Link to notebook 3](https://github.com/ahachani/churn_rate_Databel_ISP/blob/main/prompt_20_1_final.ipynb) - Model Building, Evaluation, and Interpretation
+- [Link to notebook](https://github.com/ahachani/churn_rate_Databel_ISP/blob/main/prompt_20_1_final.ipynb) - Data Cleaning and Preprocessing
+- [Link to notebook](https://github.com/ahachani/churn_rate_Databel_ISP/blob/main/prompt_20_1_final.ipynb) - Exploratory Data Analysis (EDA) and Feature Engineering
+- [Link to notebook](https://github.com/ahachani/churn_rate_Databel_ISP/blob/main/prompt_20_1_final.ipynb) - Model Building, Evaluation, and Interpretation
 
 ##### Contact and Further Information
 For any questions or further information, feel free to contact ahachani@yahoo.com. Additional details and project documentation are available upon request.
